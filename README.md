@@ -12,7 +12,7 @@
 ```bash
 make windows
 ```
-
+![](gifs/windows_demo.gif)
 
 ## Linux
 
@@ -20,7 +20,7 @@ make windows
 ```bash
 make linux
 ```
-
+![](gifs/linux_demo.gif)
 
 ## Web
 
