@@ -28,7 +28,7 @@ make linux
 ```bash
 make web
 ```
-
+![](gifs/web_demo.gif)
 
 ## Тестирование
 
